@@ -1,0 +1,7 @@
+*.dll
+*.v2
+*.vsidx
+*.exe
+*.pdb
+.vs/BudgetSystem/v17/.suo
+*.cache
